@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections
 
-![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
+![Header/intro section for the Huddle landing page with curved sections](https://github.com/ubaidaa-oss/Huddle-landing-App/blob/main/assets/design/desktop-preview.jpg?raw=true)
 
 ## Welcome! 👋
 
